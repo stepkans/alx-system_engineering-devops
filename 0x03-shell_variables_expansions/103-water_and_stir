@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $WATER|tr watehrd olhcusb|rev
+echo $WATER|tr o b
